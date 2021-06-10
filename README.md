@@ -1,16 +1,14 @@
 ### Hi there 👋
+Don't Visit My Website: https://s1072489.github.io
 
-<!--
-**s1072489/s1072489** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contact Me
+Email: brandonzhou711@gmail.com
 
-Here are some ideas to get you started:
+### Current Projects
+My Website: [s1072489.github.io](https://github.com/s1072489/s1072489.github.io)  
+Start Tracker: [PRIVATE](https://github.com/s1072489/Star-Tracker)  
+Basic General Discord Bot: [Basic-General-Discord-Bot](https://github.com/s1072489/Basic-General-Discord-Bot)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Resources
+Discord.py Cheatsheet: [Discord.py-Cheatsheet](https://github.com/s1072489/Discord.py-Cheatsheet)  
+Basic General Discord Bot: [Basic-General-Discord-Bot](https://github.com/s1072489/Basic-General-Discord-Bot)
