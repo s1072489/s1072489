@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brandon</h1>
+# Hi 👋, I'm Brandon  
 
 ### Contact Me
 Email: brandonzhou711@gmail.com
