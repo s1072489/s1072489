@@ -22,6 +22,7 @@
 
 <details>
   <summary><b>Statistics</b></summary>
-  <image src="https://raw.githubusercontent.com/s1072489/s1072489/main/statistics/overview.svg" alt="Github Statistics">
-  <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1072489" alt="Language Statistics">
+  <image src="https://github.com/s1072489/s1072489/main/statistics/overview.svg" alt="Github Statistics">
+  <image src="https://github.com/s1072489/s1072489/blob/main/statistics/languages.svg" alt="Language Statistics">
+  <!-- <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1072489" alt="Language Statistics"> -->
 </details>
