@@ -41,7 +41,7 @@ td {
 }
 tr {
   transform: translateX(-200%);
-  animation-duration: 2s;
+  animation-duration: 0s;
   animation-name: slideIn;
   animation-function: ease-in-out;
   animation-fill-mode: forwards;
