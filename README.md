@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">Hi 👋, I'm Brandon</h1>  
-<p>I'm a random student from Australia who spends spare time book-editing or coding.</p>
+<p>I'm a random student from Australia who spends spare time coding.</p>
 
 <details>
 	<summary><b>Contact Me</b></summary>
