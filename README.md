@@ -3,7 +3,7 @@
 
 <details>
 	<summary><b>Contact Me</b></summary>
-	<code>Email: brandonzhou711@gmail.com</code>
+	<code>Email:</code> <a href="mailto:brandonzhou711@gmail.com">brandonzhou711@gmail.com</a>
 </details>
 
 <details>
