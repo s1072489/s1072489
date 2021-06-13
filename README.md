@@ -12,3 +12,6 @@ Basic General Discord Bot: [Basic-General-Discord-Bot](https://github.com/s10724
 Discord.py Cheatsheet: [DiscordPyCheatsheet](https://gist.github.com/s1072489/be00a6534a8fb743ce561f6f634910fc)  
 Basic General Discord Bot: [Basic-General-Discord-Bot](https://github.com/s1072489/Basic-General-Discord-Bot)  
 A Very Basic Discord.py Bot: [BasicDiscordBot](https://gist.github.com/s1072489/0476be715166fcd005578314d960b2aa)
+
+### Statistics
+![Github Statistics](https://raw.githubusercontent.com/s1072489/user-stats/master/generated/overview.svg?token=ATAXFMFXXX3VN6WM5NKGLYLAYWCJE) ![Language Statistics](https://raw.githubusercontent.com/s1072489/user-stats/master/generated/languages.svg?token=ATAXFMAXIOH34X4EHAQJTDDAYWCJM)
