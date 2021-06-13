@@ -6,14 +6,14 @@
 	<code>Email:</code> <a href="mailto:brandonzhou711@gmail.com">brandonzhou711@gmail.com</a>
 </details>
 
-<details>
+<details open>
 	<summary><b>Current Projects</b></summary>
 	<code>Star Tracker:</code> <a href="https://github.com/s1072489/Star-Tracker">PRIVATE</a> <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python Logo" width="14" height="14"></br>
 	<code>Don't visit My Website:</code> <a href="https://github.com/s1072489/s1072489.github.io">s1072489.github.io</a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" alt="HTML5 Logo" width="15" height="15"><br>
 	<code>Basic General Discord Bot:</code> <a href="https://github.com/s1072489/Basic-General-Discord-Bot">Basic-General-Discord-Bot</a> <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python Logo" width="14" height="14">
 </details>
 
-<details>
+<details open>
 	<summary><b>Resources</b></summary>
 	<code>Discord.py Cheatsheet:</code> <a href="https://gist.github.com/s1072489/be00a6534a8fb743ce561f6f634910fc">DiscordPyCheatsheet</a></br>
 	<code>Basic General Discord Bot:</code> <a href="https://github.com/s1072489/Basic-General-Discord-Bot">Basic-General-Discord-Bot</a></br>
