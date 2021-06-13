@@ -14,5 +14,5 @@ Basic General Discord Bot: [Basic-General-Discord-Bot](https://github.com/s10724
 A Very Basic Discord.py Bot: [BasicDiscordBot](https://gist.github.com/s1072489/0476be715166fcd005578314d960b2aa)
 
 ### Statistics
-![Github Statistics](https://github.com/s1072489/user-stats/blob/master/generated/overview.svg)
-![Language Statistics](https://github.com/s1072489/user-stats/blob/master/generated/languages.svg)
+![Github Statistics](https://github.com/s1072489/s1072489/blob/main/statistics/overview.svg)
+![Language Statistics](https://github.com/s1072489/s1072489/blob/main/statistics/languages.svg)
