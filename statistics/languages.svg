@@ -1,23 +1,10 @@
-<svg width="300" height="210" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="300" height="200" viewBox="0 0 300 200" fill="none" xmlns="http://www.w3.org/2000/svg">
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
             fill: #2f80ed;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
-          #background {
-  width: calc(100% - 10px);
-  height: calc(100% - 10px);
-  fill: white;
-  stroke: rgb(225, 228, 232);
-  stroke-width: 1px;
-  rx: 6px;
-  ry: 6px;
-}
-  .container {
-  display: flex;
-  justify-content: center;
-}
           
     .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #333 }
   
@@ -45,7 +32,7 @@
 
         undefined
 
-        <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="95%" stroke="#e4e2e2" width="299" fill="#fffefe" stroke-opacity="1"/>
+        <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="299" fill="#fffefe" stroke-opacity="1"/>
 
         
       <g data-testid="card-title" transform="translate(25, 35)">
@@ -69,7 +56,7 @@
     </svg>
   
   </g><g transform="translate(0, 40)">
-    <text data-testid="lang-name" x="2" y="15" class="lang-name">HTML5</text>
+    <text data-testid="lang-name" x="2" y="15" class="lang-name">HTML</text>
     <text x="215" y="34" class="lang-name">32.42%</text>
     
     <svg width="205" x="0" y="25">
