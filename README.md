@@ -18,6 +18,7 @@
 	<code>Discord.py Cheatsheet:</code> <a href="https://gist.github.com/s1072489/be00a6534a8fb743ce561f6f634910fc">DiscordPyCheatsheet</a></br>
 	<code>Basic General Discord Bot:</code> <a href="https://github.com/s1072489/Basic-General-Discord-Bot">Basic-General-Discord-Bot</a></br>
 	<code>A Very Basic Discord.py Bot:</code> <a href="https://gist.github.com/s1072489/0476be715166fcd005578314d960b2aa">BasicDiscordBot</a></br>
+	<code>Discord.py Webhook:</code> <a href="https://gist.github.com/s1072489/a11234f77b008768feddcd9cd56dbf34">SimpleDiscordPyWebhooks.py</a></br>
 </details>
 
 <details>
