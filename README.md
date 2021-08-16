@@ -8,18 +8,17 @@
 
 <details open>
 	<summary><b>Current Projects</b></summary>
-	<code>Star Tracker:</code> <a href="https://github.com/s1072489/Star-Tracker">PRIVATE</a> <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python Logo" width="14" height="14"></br>
-	<code>Don't visit My Website:</code> <a href="https://github.com/s1072489/s1072489.github.io">s1072489.github.io</a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" alt="HTML5 Logo" width="15" height="15"><br>
-	<code>Basic General Discord Bot:</code> <a href="https://github.com/s1072489/Basic-General-Discord-Bot">Basic-General-Discord-Bot</a> <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python Logo" width="14" height="14">
+	<code>Timetable Notifier App:</code> <a href="https://github.com/s1072489/Timetable-App">Timetable-App</a></br>
+	<code>Don't visit My Website:</code> <a href="https://github.com/s1072489/s1072489.github.io">s1072489.github.io</a></br>
+	<code>Basic General Discord Bot:</code> <a href="https://github.com/s1072489/Basic-General-Discord-Bot">Basic-General-Discord-Bot</a>
 </details>
 
 <details open>
 	<summary><b>Resources</b></summary>
 	<code>Discord.py Cheatsheet:</code> <a href="https://gist.github.com/s1072489/be00a6534a8fb743ce561f6f634910fc">DiscordPyCheatsheet</a></br>
-	<code>Timetable Notifier App:</code> <a href="https://github.com/s1072489/Timetable-App">Timetable-App</a></br>
 	<code>Basic General Discord Bot:</code> <a href="https://github.com/s1072489/Basic-General-Discord-Bot">Basic-General-Discord-Bot</a></br>
 	<code>A Very Basic Discord.py Bot:</code> <a href="https://gist.github.com/s1072489/0476be715166fcd005578314d960b2aa">BasicDiscordBot</a></br>
-	<code>Discord.py Webhook:</code> <a href="https://gist.github.com/s1072489/a11234f77b008768feddcd9cd56dbf34">SimpleDiscordPyWebhooks.py</a></br>
+	<code>Discord.py Webhook:</code> <a href="https://gist.github.com/s1072489/a11234f77b008768feddcd9cd56dbf34">SimpleDiscordPyWebhooks.py</a>
 </details>
 
 <details>
