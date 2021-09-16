@@ -18,7 +18,7 @@
 		<img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/windows.svg" />
 		<img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/sublimetext.svg" />
 	</p>
-	<code>Contact Me:</code> <a href="mailto:brandonzhou711@gmail.com">brandonzhou711@gmail.com</a>
+	<code>Contact Me:</code> <a href="mailto:brandonzhou711@gmail.com">4g3i1ai3k@relay.firefox.com</a>
 </details>
 
 <details open>
