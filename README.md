@@ -2,22 +2,6 @@
 <p>I'm a random student from Australia who spends spare time coding.</p>
 
 <details open>
-	<summary><b>Details</b></summary>
-	<code>Technologies I use:</code>
-	<p></p>
-	<p align="left">
-		<img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" />
-		<img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg" />
-		<img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" />
-		<img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/css3.svg" />
-		<img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" />
-		<img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/npm.svg" />
-		<img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/docker.svg" />
-		<img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/stackoverflow.svg" />
-		<img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/ubuntu.svg" />
-		<img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/windows.svg" />
-		<img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/sublimetext.svg" />
-	</p>
 	<code>Contact Me:</code> <a href="mailto:brandonzhou711@gmail.com">4g3i1ai3k@relay.firefox.com</a>
 </details>
 
